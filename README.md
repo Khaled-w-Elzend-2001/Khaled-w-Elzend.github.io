@@ -124,7 +124,3 @@ British University in Egypt | July 2023
 
  ## Memberships
 * Arab Physical Society: Jan 2024 – Jan 2025
-
-## Memberships
-
-(List your memberships with details)
