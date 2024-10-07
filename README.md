@@ -103,6 +103,8 @@ British University in Egypt | July 2023
 
 * English: Fluent, TOEFL IBT Score: 91 (Reading: 23 | Listening: 26 | Speaking: 21 | Writing: 21)
 * Arabic: Native Speaker
+
+
 ## 📜 Certificates
 
 * 2021: Web Development Challenger Track – Udacity
