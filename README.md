@@ -2,7 +2,7 @@
 
  +201010762506 | ✉️ zendkhaled@gmail.com 
 
-## Education
+## 🎓 Education
 
 **Bachelor of Science in Applied Physics**
 Port Said University, Egypt | 2019 – 2023
@@ -15,7 +15,7 @@ Graduation Project: Potentials of a Moving Test Charge during the Solar Wind Int
 * Employed linearization techniques and studied Dust Acoustic Waves.
 * Explored oscillatory and static potentials to understand charge propagation.
 
-## Experience
+## 💼 Experience
 
 ### Volunteering Research Assistant
 
@@ -30,7 +30,7 @@ Port Said University | Sept 2024 – Present
 
 * Teaching and demonstrating experiments for Atomic Physics and Thermodynamics labs.
 
-## Projects
+## 🛠️ Projects
 
 ### Solar Activity Database
 
@@ -40,14 +40,14 @@ Egyptian Space Agency Training Project | July – Sept 2022 | Cairo, Egypt
 * Developed a Python-based GUI for data visualization using matplotlib.
 * Supervisor: Wael Mohamed
 
-### Confronting Alternative ΛCDM Models
+###  Confronting Alternative ΛCDM Models
 
 Center for Theoretical Physics, BUC | July – Aug 2023 | Cairo, Egypt
 
 * Tested alternative cosmological models against Supernovae and CMB datasets.
 * Supervisor: Dr. Mahmoud Hashim
 
-## Conference Presentations
+## 🗣️ Conference Presentations
 
 ### 5th One Day Plasma Conference
 
@@ -57,7 +57,7 @@ British University in Egypt | July 2023
 
 
 
-## Schools and Conferences 
+## 🏫 Schools and Conferences 
 
 ### EGYPlasma 7th Spring Plasma School
 
@@ -80,7 +80,7 @@ British University in Egypt | July 2023
 
 * Courses in cosmology, particle physics, quantum computing, and machine learning.
 
-## Practical Trainings
+## 🧑‍🔬 Practical Trainings
 
 ### Egyptian German Technical Academy (EGTA)
 * Mar. 28 – Apr. 1, 2021
@@ -92,18 +92,18 @@ British University in Egypt | July 2023
 
 
 
-## Skills
+## 🛠️ Skills
 
 ### Programming Languages & Tools
 
 * Python (Pandas, Matplotlib, Numpy, Emcee, Tkinter, Qiskit, Cirq, CLASS)
 * C++, SQL, LaTeX, HTML, CSS ,Wolfram Mathematica, Microsoft Word, Excel, PowerPoint
 
-## Languages
+## 🌐 Languages
 
-* English: TOEFL IBT Score: 91 (Reading: 23 | Listening: 26 | Speaking: 21 | Writing: 21)
+* English: Fluent, TOEFL IBT Score: 91 (Reading: 23 | Listening: 26 | Speaking: 21 | Writing: 21)
 * Arabic: Native Speaker
-## Certificates
+## 📜 Certificates
 
 * 2021: Web Development Challenger Track – Udacity
 * 2022: Data Analysis Challenger Track – Udacity
@@ -122,5 +122,5 @@ British University in Egypt | July 2023
 * 2024: Quantum Machine Learning Challenge – Womanium & Xanadu
 * 2024: Classiq Fundamentals Workshop – Womanium & Classiq
 
- ## Memberships
+ ## 👥 Memberships
 * Arab Physical Society: Jan 2024 – Jan 2025
