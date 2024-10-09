@@ -88,7 +88,9 @@ British University in Egypt | July 2023
 ### National Atomic Authority
 * Nov. 14 – Dec. 2, 2021
 * Training in hot labs and nuclear waste handling.
-
+### Egyptian space agency 
+*  July. 23–Sept. 21,2022
+*  on satellite mission Analysis–space weather
 
 
 
