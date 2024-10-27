@@ -6,7 +6,7 @@
 
 **Bachelor of Science in Applied Physics**
 Port Said University, Egypt | 2019 – 2023
-CGPA: 85.88% (3.43/4) | Group Ranking: First
+CGPA: 85.88%  | Group Ranking: First
 
 Graduation Project: Potentials of a Moving Test Charge during the Solar Wind Interaction with Dusty Magnetosphere of Jupiter
 
