@@ -23,14 +23,14 @@ Heidelberg University , Germany April 2025 - present
 
 ### Volunteering Research Assistant
 
-Center for Theoretical Physics, The British University in Egypt | Aug 2024 – Present
+Center for Theoretical Physics, The British University in Egypt | Aug 2024 – 01.April 2025
 
 * Investigating Dark Energy, cosmological parameters, and testing ΛCDM models.
 * Utilizing Python (CLASS, MontePython) and C++ for DESI data analysis.
 
 ### Teaching Assistant (TA)
 
-Port Said University | Sept 2024 – Present
+Port Said University | Sept 2024 – 01.April 2025
 
 * Teaching and demonstrating experiments for Atomic Physics and Thermodynamics labs.
 
