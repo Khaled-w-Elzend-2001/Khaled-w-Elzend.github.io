@@ -14,6 +14,8 @@ Graduation Project: Potentials of a Moving Test Charge during the Solar Wind Int
 * Applied Plasma Fluid Model (Euler equations) to simulate dusty plasma dynamics.
 * Employed linearization techniques and studied Dust Acoustic Waves.
 * Explored oscillatory and static potentials to understand charge propagation.
+
+  
 **physics master's**
 Heidelberg University , Germany April 2025 - present
   
